@@ -63,7 +63,4 @@ public class ReportFactory {
         return outputStream.toByteArray();
     }
 
-
-
-
 }
