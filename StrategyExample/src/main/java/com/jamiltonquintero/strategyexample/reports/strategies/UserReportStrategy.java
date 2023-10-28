@@ -28,7 +28,7 @@ public class UserReportStrategy implements IReport{
 
     @Override
     public ReportEnum getReportType() {
-        return ReportEnum.USER;
+        return null;
     }
 
     @Override
